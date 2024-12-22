@@ -102,4 +102,27 @@ Contributions are welcome! Feel free to fork the repository, open issues, or sub
 
 ## Acknowledgements  
 - [Deepfake and Real Images Dataset](https://www.kaggle.com/datasets/manjilkarki/deepfake-and-real-images/data) for providing the data.  
-- Pre-trained CNN models available through PyTorch's `torchvision`.  
+- Pre-trained CNN models available through PyTorch's `torchvision`.
+## Contact
+If you have any questions, suggestions, or feedback about this project, feel free to reach out!
+
+Name: Adham Hany Ahmed
+
+Email: elkomyadham56@gmail.com
+
+LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/adham-hany-b18469277)
+
+
+Name: Ziad Ahmed Eliwa 
+
+Email: ziadeliwa93@gmail.com
+
+LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ziad-eliwa-b48754240/)
+
+
+Name: Adham Adel Mohammed
+
+Email: adhamadelmoh@gmail.com
+
+LinkedIn: [[Your LinkedIn Profile](https://www.linkedin.com/in/ziad-eliwa-b48754240/)
+
