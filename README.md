@@ -106,6 +106,9 @@ Contributions are welcome! Feel free to fork the repository, open issues, or sub
 
 ## Contact
 If you have any questions, suggestions, or feedback about this project, feel free to reach out!
-Name: Adham Hany Ahmed
-Email: elkomyadham56@gmail.com
-LinkedIn: https://www.linkedin.com/in/adham-hany-b18469277
+
+- Name: Adham Hany Ahmed
+
+- Email: elkomyadham56@gmail.com
+
+- LinkedIn: https://www.linkedin.com/in/adham-hany-b18469277
