@@ -35,10 +35,13 @@ Five pre-trained CNN architectures were evaluated in this project:
 1. **Custom Classifier Layer**  
    - For each model, the final classifier layer was replaced with a fully connected layer for **binary classification** (real or fake).  
 2. **Fine-Tuning**  
-   - All models were fine-tuned on the dataset to further adapt to the task of deepfake classification.  
+   - All models were fine-tuned on the dataset to further adapt to the task of deepfake classification.
+3. **Learning Rate Optimization with Optuna**
+  - The optimal learning rate for each model was determined using Optuna, a hyperparameter optimization framework.
+  - Optuna was used to perform efficient search across a range of learning rates, selecting the one that maximized performance on the validation set.
 
 ## Results  
-After evaluating the performance of each model, the **best-performing model** was selected based on accuracy, precision, recall, and F1-score.  
+After evaluating the performance of each model using 3-fold cross-validation, the best-performing model was selected based on accuracy, precision, recall, and F1-score. 
 
 ## Framework  
 This project is implemented using **PyTorch**, a powerful and flexible deep learning framework that facilitates:  
