@@ -9,8 +9,11 @@ The dataset used for this project contains **10,000 images** split evenly into:
 - **5,000 fake images**  
 - **5,000 real images**
 - Fake Image:
+  
 ![image](https://github.com/user-attachments/assets/c218c681-65e5-41b8-bed2-eabe99dcda82)
+
 - Real Image:
+  
 ![image](https://github.com/user-attachments/assets/dbd4d579-04ba-4fd6-ad81-61c6c6b14046)
 
 These images were extracted from the larger dataset available [here](https://www.kaggle.com/datasets/manjilkarki/deepfake-and-real-images/data).  
