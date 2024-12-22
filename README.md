@@ -54,7 +54,7 @@ This project is implemented using **PyTorch**, a powerful and flexible deep lear
 ### Installation  
 1. Clone this repository:  
    ```bash  
-   git clone https://github.com/your-username/deepfake-image-classifier.git  
+   git clone https://github.com/elkomy13/DeepFake_Images_Classifier.git
    cd deepfake-image-classifier  
    ```  
 2. Install the required libraries:  
