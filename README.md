@@ -106,23 +106,10 @@ Contributions are welcome! Feel free to fork the repository, open issues, or sub
 ## Contact
 If you have any questions, suggestions, or feedback about this project, feel free to reach out!
 
-Name: Adham Hany Ahmed
+| **Name**              | **Email**                    | **LinkedIn**                                                      |
+|------------------------|------------------------------|-------------------------------------------------------------------|
+| Adham Hany Ahmed      | elkomyadham56@gmail.com      | [Adham Elkomy](https://www.linkedin.com/in/adham-hany-b18469277) |
+| Ziad Ahmed Eliwa      | ziadeliwa93@gmail.com        | [Ziad Eliwa](https://www.linkedin.com/in/ziad-eliwa-b48754240/)  |
+| Adham Adel Mohammed   | adhamadelmoh@gmail.com       | [Adham Adel](https://www.linkedin.com/in/ziad-eliwa-b48754240/)  |
 
-Email: elkomyadham56@gmail.com
-
-LinkedIn: [Adham Elkomy](https://www.linkedin.com/in/adham-hany-b18469277)
-
-
-Name: Ziad Ahmed Eliwa 
-
-Email: ziadeliwa93@gmail.com
-
-LinkedIn: [Ziad Eliwa](https://www.linkedin.com/in/ziad-eliwa-b48754240/)
-
-
-Name: Adham Adel Mohammed
-
-Email: adhamadelmoh@gmail.com
-
-LinkedIn: [Adham Adel](https://www.linkedin.com/in/ziad-eliwa-b48754240/)
 
